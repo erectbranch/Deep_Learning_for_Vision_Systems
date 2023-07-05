@@ -1,7 +1,7 @@
 <div width="100%" height="100%" align="center">
   
 <h1 align="center">
-  <p align="center">살아 움직이는 머신러닝 파이프라인 설계</p>
+  <p align="center">비전 시스템을 위한 딥러닝</p>
   <a href="https://www.hanbit.co.kr/store/books/look.php?p_code=B6566099029">
     <img width="50%" src="cover.jpg" />
   </a>
