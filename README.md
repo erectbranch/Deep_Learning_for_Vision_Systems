@@ -21,6 +21,20 @@
 
 <br/>
 
+## 🚩 정리한 문서 목록
+
+### 🔬 신경망 평가, 하이퍼파라미터 튜닝
+
+ - [learning rate 조절하기](https://github.com/erectbranch/Deep_Learning_for_Vision_Systems/tree/master/ch04/summary02)
+
+   > Batch Gradient Descent(BGD), Stochastic Gradient Descent(SGD), Mini-Batch Gradient Descent(MBGD)
+
+   > ideal learning rate, learning rate decay(step decay, exponential decay, momentum, Adam)
+
+   > train loss > val loss 상황: L1,L2 regularization, dropout, luck
+
+<br/>
+
 ## :mag: 목차
 
 ### [PART I 딥러닝 기초]
